@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/rifki500/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/rifki500/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 # The World Today — Tuesday 24 November 2026
 
 Entry for [news-image-20261124](https://make.fun/bounty/news-image-20261124)
